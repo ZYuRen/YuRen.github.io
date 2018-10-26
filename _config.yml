@@ -55,8 +55,8 @@ kramdown:
 
 
 # 评论系统
-Disqus（https://disqus.com/）
-disqus_username: ZYuRen
+# Disqus（https://disqus.com/）
+# disqus_username: ZYuRen
 
 # Gitalk
 gitalk:

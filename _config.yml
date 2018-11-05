@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: ZYuRen的博客 | BY Blog
+title: ZYuRen Blog
+SEOTitle: ZYuRen的博客 | ZYuRen Blog
 header-img: img/post-bg-desk.jpg
 email: 3586824452@qq.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, ZYuRen的博客, iOS, Apple, iPhone"
+keyword: "ZYuRen, ZYuRen Blog, ZYuRen的博客, iOS, Apple, iPhone"
 url: "http://ZYuRen.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/ZYuRen/ZYuRen.github.io.git" # you code repository

@@ -20,7 +20,6 @@ tags:
 ![](https://ww3.sinaimg.cn/large/006tNbRwgy1fcr9tu6vdjj30t30ez0y8.jpg)
 
 	1.mac客户端下载地址：desktop.github.com
-	
 	2.安装完后启动客户端，在程序的preference(偏好设置)中选择Account并登陆你的github账号便可成功关联。
  
 # GitHub创建仓库提示代码

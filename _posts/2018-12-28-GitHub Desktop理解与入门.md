@@ -16,20 +16,17 @@ tags:
 >Desktop的入门操作
 
 # GitHub客户端下载
-
-![image](https://github.com/ZYuRen/ZYuRen.github.io/blob/master/img/post-bg-GitHub-Desktop.gif)
 		
 	1.mac客户端下载地址：desktop.github.com
 	2.安装完后启动客户端，在程序的preference(偏好设置)中选择Account并登陆你的github账号便可成功关联。
  
-# GitHub创建仓库提示代码
+# GitHub Desktop的使用
 
-	echo "# 项目名" >> README.md
-	git init
-	git add README.md
-	git commit -m "first commit"
-	git remote add origin git@github.com:qiubaiying/项目名.git
-	git push -u origin master
+	#### 1.将代码先导入到github desktop中管理
+	左上角“+”号 ->选择“add”选项->点击“choose..”->选择上传文件,点击Open->点击Create&Add Reposiroty(创建仓库)
+	![image](https://github.com/ZYuRen/ZYuRen.github.io/blob/master/img/post-bg-GitHub-Desktop.gif)
+	
+	#### 2.将仓库同步到github服务器上
 
 若仓库存在直接push
 

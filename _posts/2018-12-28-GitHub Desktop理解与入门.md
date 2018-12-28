@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Git 代码回滚
-subtitle:   回滚代码的正确姿势
-date:       2018-10-25
+title:      GitHub Desktop
+subtitle:   Desktop理解与入门
+date:       2018-12-28
 author:     ZYuRen
 header-img: img/post-bg-debug.png
 catalog: true

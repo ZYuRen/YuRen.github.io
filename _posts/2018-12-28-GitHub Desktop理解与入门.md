@@ -28,13 +28,12 @@ tags:
 ![image](https://github.com/ZYuRen/ZYuRen.github.io/blob/master/img/post-bg-GitHub-Desktop.gif)
 	
 #### 2.将仓库同步到github服务器上
+	在左侧的列表中选择我们刚创建的仓库，点击页面右上角的"Publish"(发布)，输入代码的名称以及文字描述，确认下面选择的是你要上传的账号。
 
-若仓库存在直接push
-
-	git remote add origin git@github.com:qiubaiying/test.git
-	git push -u origin master
-
-
+![image](https://github.com/ZYuRen/ZYuRen.github.io/blob/master/img/post-bg-GitHub-Desktop2.gif)
+	
+	在等待服务器上传完之后发现左侧的列表中项目从Other栏下进入了Github栏下，现在我们在github的网站上便可找到我们新建的仓库，我们可以右键我们的项目，选择第一个View On GitHub。（这一步只是提交了仓库，但是代码还没有提交。）
+	
 # 常用操作
 
 #### 创建仓库（初始化）

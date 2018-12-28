@@ -22,11 +22,12 @@ tags:
  
 # GitHub Desktop的使用
 
-	#### 1.将代码先导入到github desktop中管理
+#### 1.将代码先导入到github desktop中管理
 	左上角“+”号 ->选择“add”选项->点击“choose..”->选择上传文件,点击Open->点击Create&Add Reposiroty(创建仓库)
+	
 	![image](https://github.com/ZYuRen/ZYuRen.github.io/blob/master/img/post-bg-GitHub-Desktop.gif)
 	
-	#### 2.将仓库同步到github服务器上
+#### 2.将仓库同步到github服务器上
 
 若仓库存在直接push
 

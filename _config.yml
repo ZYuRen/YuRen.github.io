@@ -19,8 +19,8 @@ sidebar-avatar: /img/ZyuRen_BY.jpg      # use absolute URL, seeing it's used in 
 # SNS settings
 RSS: false
 # weibo_username:     ZYuRen
-zhihu_username:     ZYuRen
-github_username:    ZYuRen
+zhihu_username:     ZzYuRen
+github_username:    ZzYuRen
 #jianshu_username:   e71990ada2fd
 #twitter_username:   ZYuRen
 
@@ -99,7 +99,7 @@ service-worker: true
 friends: [
     {
         title: "WY",
-        href: "http://ZYuRen.com"
+        href: "http://ZzYuRen.com"
     },{
         title: "简书",
         href: "https://www.jianshu.com/u/32b8155e4278"
